@@ -4,6 +4,7 @@ var startTime = process.hrtime();
 
 var SIZE = 100000;
 var arr = utes.generateArray(SIZE);
+
 var j = 0
 var swapped = true
 while(swapped){
